@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
+    <img src="https://github.com/user-attachments/assets/32485370-fed2-4254-bc86-c3d12507e186">
     <p>Serving over 15 million users since 2022.<p>
     <p>Interstellar is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
